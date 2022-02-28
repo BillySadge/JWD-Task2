@@ -1,4 +1,6 @@
-package by.epam.jwd.tasks;
+package by.epam.jwd.task2;
+
+import by.epam.jwd.tasks.Logic;
 
 public class Main {
 
